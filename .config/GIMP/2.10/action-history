@@ -1,0 +1,10 @@
+# GIMP action-history
+
+(history-item "tools-color-picker" 2)
+(history-item "edit-paste" 1)
+(history-item "image-new" 0)
+(history-item "layers-new" 0)
+(history-item "file-open" 0)
+(history-item "file-quit" 1)
+
+# end of action-history
